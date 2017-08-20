@@ -1,4 +1,4 @@
-# rss-reader
+# RSS Reader
 
 > Simple RSS Reader made using Vue.js and Atom Electron
 

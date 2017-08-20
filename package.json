@@ -1,6 +1,6 @@
 {
   "name": "rss-reader",
-  "version": "0.0.0",
+  "version": "3.0.0",
   "author": "Meet Godhani <meetgodhani23@gmail.com>",
   "description": "Simple RSS Reader made using Vue.js and Atom Electron",
   "license": null,
